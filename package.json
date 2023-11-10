@@ -12,7 +12,8 @@
   },
   "devDependencies": {
     "@cap-js/sqlite": "^1",
-    "@sap/ux-specification": "^1.108.17"
+    "@sap/ux-specification": "^1.108.17",
+    "node-gyp": "^10.0.1"
   },
   "scripts": {
     "start": "cds-serve",
